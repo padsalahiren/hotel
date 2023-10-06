@@ -1,0 +1,334 @@
+.a {
+    background-color: white;
+    height: 650px;
+}
+
+.r4 {
+    text-align: center;
+    font-size: 31px;
+    justify-items: start;
+}
+
+.row {
+    align-items: center;
+}
+
+.get {}
+
+.btn-nero {
+    color: #fff;
+    background-color: #222222;
+    border-color: #222222;
+    border-radius: 29px;
+    padding: 8px;
+    text-decoration: none;
+    line-height: -40px;
+    letter-spacing: 1px;
+    top: 0;
+    left: 0;
+    transition: 2s;
+
+}.btn-nero:hover{
+    background-color: green;
+    color: white;
+}
+
+.non {
+    display: inline-block;
+}
+
+.outline {
+    margin-left: 74px;
+    background-color: green;
+    color: black;
+    top: 0;
+        left: 0;
+        transition: 2s;
+}.outline:hover{
+    background-color: blue;
+    color: white;
+}
+
+.b {
+    background-color: white;
+    color: black;
+    height: 340px;
+    background-size: cover;
+    text-align: center;
+
+}
+
+.box-top {
+    background-color: #b0bbba;
+
+    height: 166px;
+    border-radius: 21px;
+    margin: 0;
+    color: white;
+    text-align: justify;
+
+
+}
+
+.pree {
+    color: black;
+    margin-left: 20px;
+    font-size: 23px;
+}
+
+.yor33 {
+    color: black;
+
+    margin-top: 15px;
+}
+
+.w23 {
+    background-color: white;
+    height: 537px;
+    color: black;
+    justify-content: start;
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+}
+
+.me3 {
+    font-size: 29px;
+}
+
+.g34 {
+    display: inline-block;
+}
+
+.cwe {
+    margin-left: 54px;
+}
+
+.b4 {
+    background-color: white;
+    height: 392px;
+    color: black;
+}
+
+.utline-1 {
+    background-color: white;
+    border-color: black;
+    border: 1px solid;
+    border-radius: 8px;
+    text-decoration: none;
+    padding: 9px;
+    transition: 2s;
+    top: 0;
+    margin: 0;
+    width: 100%;
+
+
+}
+
+.utline-1:hover {
+    width: 100%;
+    background-color: #222222;
+    color: white;
+}
+
+
+
+.ho2 {
+    color: black;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.t4 {
+    background-color: antiquewhite;
+    height: 525px;
+    opacity: 1;
+    color: black;
+    align-items: ;
+    display: flex;
+    justify-content: start;
+
+}
+
+.hg33 {
+    display: inline-block;
+}
+
+.ig3 {
+    border-radius: 50%;
+    margin-top: -20px;
+}
+
+.np734 {
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    padding: 9px;
+    text-decoration: none;
+    font-weight: 300;
+    border: 2px solid;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    margin: 0;
+    transition: 2s;
+
+
+}
+
+.np734:hover {
+    background-color: brown;
+    color: white;
+}
+
+.nvce {
+    background-color: white;
+    height: 500px;
+    border-bottom: 2px solid #222222;
+}
+
+.clw2 {
+    background-color: #e5e6e1;
+    height: 175px;
+    display: flex;
+    align-items: center;
+    line-height: 29px;
+    border-radius: 13px;
+}
+
+.bw123 {
+    display: inline-block;
+}
+
+.dd23 {
+    border-radius: 50%;
+}
+
+.jenny {
+    margin-left: 29px;
+    position: relative;
+    top: 12px;
+}
+
+.h4 {
+    position: relative;
+    top: 15px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.small {
+    position: relative;
+    top: 14px;
+}
+
+.ner344 {
+    background-color: white;
+    height: 250px;
+    align-items: inherit;
+    padding: 29px;
+
+
+}
+
+.po341 {
+    background-color: black;
+    height: 393px;
+    color: white;
+}
+
+.col-lg-4 {
+    text-align: -webkit-center;
+}
+
+.small {}
+
+.me33 {
+    color: white;
+    text-decoration: none;
+
+}
+
+.e-1 {
+    border: 2px solid white;
+    padding: 4px;
+    color: aliceblue;
+    padding-left: 25px;
+    padding-right: 21px;
+    margin-top: 30px;
+    border-radius: 26px;
+}
+
+.form-input {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+
+    height: 53px;
+    border-radius: 44px;
+}
+
+.hite23 {
+    background-color: white;
+    border-radius: 50px;
+    top: 0;
+    left: 0;
+    transition: 2s;
+    width: 129px;
+    margin-top: -79px;
+
+    top: -40px;
+    left: 103px;
+    border: 0;
+    border-left: 0;
+}
+
+.hite23:hover {
+    background-color: blue;
+    color: white;
+}
+
+.tel {
+    color: white;
+}
+
+.unit {
+    color: white;
+}
+
+.jir44 {
+    background-color: #222222;
+    z-index: 1;
+    position: fixed;
+    width: 87%;
+    background-size: cover;
+    height: 12%;
+    color: white;
+    display: flex;
+    align-items: center;
+
+}
+
+.icone {
+    color: white;
+}
+
+.heder {
+    display: inline-block;
+}
+
+.pd2 {
+    align-items: flex-start;
+    display: inline-flex;
+    margin-left: 5px;
+    position: relative;
+    top: 1px;
+    left: 167px;
+}.f40p{
+background-color: slateblue;
+        height: 27px;
+        width: 101px;
+        position: relative;
+        left: 437px;
+        
+}
